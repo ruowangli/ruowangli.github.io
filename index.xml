@@ -36,6 +36,22 @@
     </item>
     
     <item>
+      <title>A regression framework to uncover pleiotropy in large-scale electronic health record data</title>
+      <link>/publication/journal-article/a-regression-framework-to-uncover-pleiotropy-in-large-scale-electronic-health-record-data/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/a-regression-framework-to-uncover-pleiotropy-in-large-scale-electronic-health-record-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of phenotyping errors on polygenic risk score predictions</title>
+      <link>/publication/journal-article/evaluation-of-phenotyping-errors-on-polygenic-risk-score-predictions/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/evaluation-of-phenotyping-errors-on-polygenic-risk-score-predictions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Academic</title>
       <link>/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -247,18 +263,19 @@ gantt
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Integration of genetic and clinical information to improve imputation of data missing from electronic health records</title>
+      <link>/publication/journal-article/integration-of-genetic-and-clinical-information-to-improve-imputation-of-data-missing-from-electronic-health-records/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/integration-of-genetic-and-clinical-information-to-improve-imputation-of-data-missing-from-electronic-health-records/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration of genetic and functional genomics data to uncover chemotherapeutic induced cytotoxicity</title>
+      <link>/publication/journal-article/integration-of-genetic-and-functional-genomics-data-to-uncover-chemotherapeutic-induced-cytotoxicity/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/integration-of-genetic-and-functional-genomics-data-to-uncover-chemotherapeutic-induced-cytotoxicity/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -510,6 +527,14 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Collective feature selection to identify crucial epistatic variants</title>
+      <link>/publication/journal-article/collective-feature-selection-to-identify-crucial-epistatic-variants/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/collective-feature-selection-to-identify-crucial-epistatic-variants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
@@ -525,6 +550,14 @@ $$&lt;/p&gt;
       <guid>/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Methods to analyze big data in pharmacogenomics research</title>
+      <link>/publication/journal-article/methods-to-analyze-big-data-in-pharmacogenomics-research/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/methods-to-analyze-big-data-in-pharmacogenomics-research/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -673,27 +706,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Hello R Markdown</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -740,27 +752,6 @@ Figure 1: A fancy pie chart.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

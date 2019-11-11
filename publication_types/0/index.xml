@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Ruowang Li, PhD</title>
+    <link>/publication_types/0/</link>
+      <atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ruowang Li, 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/img/rm.jpg</url>
+      <title>0</title>
+      <link>/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>A regression framework to uncover pleiotropy in large-scale electronic health record data</title>
+      <link>/publication/journal-article/a-regression-framework-to-uncover-pleiotropy-in-large-scale-electronic-health-record-data/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/a-regression-framework-to-uncover-pleiotropy-in-large-scale-electronic-health-record-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of phenotyping errors on polygenic risk score predictions</title>
+      <link>/publication/journal-article/evaluation-of-phenotyping-errors-on-polygenic-risk-score-predictions/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/evaluation-of-phenotyping-errors-on-polygenic-risk-score-predictions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration of genetic and clinical information to improve imputation of data missing from electronic health records</title>
+      <link>/publication/journal-article/integration-of-genetic-and-clinical-information-to-improve-imputation-of-data-missing-from-electronic-health-records/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/integration-of-genetic-and-clinical-information-to-improve-imputation-of-data-missing-from-electronic-health-records/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration of genetic and functional genomics data to uncover chemotherapeutic induced cytotoxicity</title>
+      <link>/publication/journal-article/integration-of-genetic-and-functional-genomics-data-to-uncover-chemotherapeutic-induced-cytotoxicity/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/integration-of-genetic-and-functional-genomics-data-to-uncover-chemotherapeutic-induced-cytotoxicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collective feature selection to identify crucial epistatic variants</title>
+      <link>/publication/journal-article/collective-feature-selection-to-identify-crucial-epistatic-variants/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/collective-feature-selection-to-identify-crucial-epistatic-variants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods to analyze big data in pharmacogenomics research</title>
+      <link>/publication/journal-article/methods-to-analyze-big-data-in-pharmacogenomics-research/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/methods-to-analyze-big-data-in-pharmacogenomics-research/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
