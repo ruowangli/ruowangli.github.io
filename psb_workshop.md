@@ -11,9 +11,10 @@ The following speakers have accepted our invitation:
 • Ruowang Li (Cedars Sinai Medical Center)
 • Shannon Lynch (Fox Chase Cancer Center)
 • William La Cava (Boston Children’s hospital/Harvard Medical School)
+
 Presentation and discussion topics include:
 • Cancer Risk Prediction: Existing Models, Machine Learning, and Potential
-Roadblocks in Translating Models into Personalized Clinical Tools
+  Roadblocks in Translating Models into Personalized Clinical Tools
 • Challenges and methods for risk prediction using clinical data
 • Challenges of making risk prediction models fair
 • Interpretable Machine Learning for Biomedical Imaging Analysis
@@ -21,7 +22,7 @@ Roadblocks in Translating Models into Personalized Clinical Tools
 • On population diversity to better ensure risk prediction equity
 • Polygenic risk vectors improve risk stratification for cardio-metabolic diseases
 • Targeting Underrepresented Populations in Precision Medicine: A Federated
-Transfer Learning Approach
+  Transfer Learning Approach
 
 Workshop Organizers
 
