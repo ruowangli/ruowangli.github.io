@@ -1,6 +1,7 @@
 Risk prediction: Methods, Challenges, and Opportunities
 
 Workshop Organizers
+
 Rui Duan, Ph.D. is an Assistant Professor of Biostatistics at the Harvard T.H. Chan School
 of Public Health. Her research interests focus on developing statistical and machine
 learning methods for effective use of biomedical data, in order to generate reliable
@@ -10,18 +11,21 @@ predictive models based on electronic health records (EHR) and EHR-linked bioban
 federated learning and meta-analysis methods for effective evidence synthesis and data
 integration, and methods to account for suboptimality of real-world data, including missing
 data and measurement errors.
+
 Lifang He, Ph.D. is an Assistant Professor in the Department of Computer Science and
 Engineering at Lehigh University. Her group focuses on developing advanced
 computational methods for biomedical research such as on understanding disease
 mechanisms, diagnosis, prognosis, disease biomarkers, and disease pathways. Her
 research interests broadly include machine learning computational medical imaging, AI
 for health, tensor computing, and multimodal analysis.
+
 Ruowang Li, Ph.D. is an Assistant Professor in the Department of Computational
 Biomedicine at Cedars Sinai Medical Center. His lab focuses on developing
 computational methods to extract knowledge from large-scale population-level data, such
 as biobank-linked electronic health record data. His area of research includes multi-omics
 data integration, federated learning of patients’ data, genetic risk prediction, and genomephenome
 associations.
+
 Jason H. Moore, Ph.D. is a biomedical informatician and founding Chair of the
 Department of Computational Biomedicine at Cedars-Sinai Medical Center in Los
 Angeles. His research on artificial intelligence methods for the analysis of biomedical data
