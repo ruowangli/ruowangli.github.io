@@ -3,6 +3,7 @@ A workshop as part of the Pacific Symposium on Biocomputing 2023
 Risk prediction: Methods, Challenges, and Opportunities
 
 The following speakers have accepted our invitation:
+
 • David Conti (University of Southern California)
 
 • Yong Chen (University of Pennsylvania)
@@ -18,6 +19,7 @@ The following speakers have accepted our invitation:
 • Shannon Lynch (Fox Chase Cancer Center)
 
 • William La Cava (Boston Children’s hospital/Harvard Medical School)
+
 
 Presentation and discussion topics include:
 
