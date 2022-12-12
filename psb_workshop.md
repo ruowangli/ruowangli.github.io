@@ -2,44 +2,20 @@ A workshop as part of the Pacific Symposium on Biocomputing 2023
 
 Risk prediction: Methods, Challenges, and Opportunities
 
-The following speakers have accepted our invitation:
+Agenda
 
-• David Conti (University of Southern California)
+9:00-9:20 PDA: Privacy-preserving Distributed Algorithms in the Era of Networked Real-World Data - Dr.Yong Chen (University of Pennsylvania)
+9:20-9:40 TBD - Dr.Dana Crawford (Case Western Reserves University)
+9:40-10:00 TBD - Dr.Rui Duan (Harvard University)
+10:00-10:20 Interpretable Machine Learning for Biomedical Imaging Analysis - Dr.Lifang He (Lehigh University)
+10:20-10:30 Discussions 
+10:30-10:50 Use of polygenic risk scores for understanding comorbidities and long term outcomes in women’s health - Dr.Shefali Verma (University of Pennsylvania)
+10:50-11:10 Beyond polygenic risk score for risk prediction - Dr.Ruowang Li (Cedars Sinai Medical Center)
+• Shannon Lynch (Cedars Sinai Medical Center)
+11:10-11:30 TBD - Dr.Shannon Lynch 
+11:30-11:50 Post-processing for fairness in emergency department admission predictions - Dr.William La Cava (Boston Children’s hospital/Harvard Medical School)
+11:50-12:00 Discussions 
 
-• Yong Chen (University of Pennsylvania)
-
-• Dana Crawford (Case Western Reserves University)
-
-• Rui Duan (Harvard University)
-
-• Lifang He (Lehigh University)
-
-• Ruowang Li (Cedars Sinai Medical Center)
-
-• Shannon Lynch (Fox Chase Cancer Center)
-
-• William La Cava (Boston Children’s hospital/Harvard Medical School)
-
-
-Presentation and discussion topics include:
-
-• Cancer Risk Prediction: Existing Models, Machine Learning, and Potential
-  Roadblocks in Translating Models into Personalized Clinical Tools
-
-• Challenges and methods for risk prediction using clinical data
-
-• Challenges of making risk prediction models fair
-
-• Interpretable Machine Learning for Biomedical Imaging Analysis
-
-• Integrated Analysis of Multi-Omic data
-
-• On population diversity to better ensure risk prediction equity
-
-• Polygenic risk vectors improve risk stratification for cardio-metabolic diseases
-
-• Targeting Underrepresented Populations in Precision Medicine: A Federated
-  Transfer Learning Approach
 
 Workshop Organizers
 
