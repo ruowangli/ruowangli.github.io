@@ -1,10 +1,10 @@
 
-**A workshop as part of the Pacific Symposium on Biocomputing 2023**
+**<h1>A workshop as part of the Pacific Symposium on Biocomputing 2023</h1>**
 
 
-**Risk prediction: Methods, Challenges, and Opportunities**
+**<h2>Risk prediction: Methods, Challenges, and Opportunities</h2>**
 
-*Agenda* 
+*<h3>Agenda</h3>* 
 
 9:00-9:20&nbsp; &nbsp;&nbsp; &nbsp;PDA: Privacy-preserving Distributed Algorithms in the Era of Networked Real-World Data - Dr.Yong Chen (University of Pennsylvania)
 
@@ -26,8 +26,8 @@
 
 11:50-12:00&nbsp; &nbsp;Discussions 
   
-</br></br>
-**Workshop Organizers**
+
+*<h3>Workshop Organizers</h3>*
 
 Rui Duan, Ph.D. is an Assistant Professor of Biostatistics at the Harvard T.H. Chan School
 of Public Health. Her research interests focus on developing statistical and machine
