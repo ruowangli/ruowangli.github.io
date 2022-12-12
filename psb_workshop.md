@@ -4,25 +4,25 @@ Risk prediction: Methods, Challenges, and Opportunities
 
 Agenda
 
-9:00-9:20    PDA: Privacy-preserving Distributed Algorithms in the Era of Networked Real-World Data - Dr.Yong Chen (University of Pennsylvania)
+9:00-9:20      PDA: Privacy-preserving Distributed Algorithms in the Era of Networked Real-World Data - Dr.Yong Chen (University of Pennsylvania)
 
-9:20-9:40     TBD - Dr.Dana Crawford (Case Western Reserves University)
+9:20-9:40       TBD - Dr.Dana Crawford (Case Western Reserves University)
 
-9:40-10:00    TBD - Dr.Rui Duan (Harvard University)
+9:40-10:00      TBD - Dr.Rui Duan (Harvard University)
 
-10:00-10:20    Interpretable Machine Learning for Biomedical Imaging Analysis - Dr.Lifang He (Lehigh University)
+10:00-10:20      Interpretable Machine Learning for Biomedical Imaging Analysis - Dr.Lifang He (Lehigh University)
 
-10:20-10:30     Discussions 
+10:20-10:30       Discussions 
 
-10:30-10:50    Use of polygenic risk scores for understanding comorbidities and long term outcomes in women’s health - Dr.Shefali Verma (University of Pennsylvania)
+10:30-10:50      Use of polygenic risk scores for understanding comorbidities and long term outcomes in women’s health - Dr.Shefali Verma (University of Pennsylvania)
 
-10:50-11:10     Beyond polygenic risk score for risk prediction - Dr.Ruowang Li (Cedars Sinai Medical Center)
+10:50-11:10       Beyond polygenic risk score for risk prediction - Dr.Ruowang Li (Cedars Sinai Medical Center)
   
-11:10-11:30     TBD - Dr.Shannon Lynch (Fox Chase Cancer Center)
+11:10-11:30       TBD - Dr.Shannon Lynch (Fox Chase Cancer Center)
 
-11:30-11:50    Post-processing for fairness in emergency department admission predictions - Dr.William La Cava (Boston Children’s hospital/Harvard Medical School)
+11:30-11:50      Post-processing for fairness in emergency department admission predictions - Dr.William La Cava (Boston Children’s hospital/Harvard Medical School)
 
-11:50-12:00    Discussions 
+11:50-12:00      Discussions 
   
 
 Workshop Organizers
