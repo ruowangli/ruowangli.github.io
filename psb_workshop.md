@@ -6,7 +6,7 @@
 
 ### Agenda ###
 
-9:00-9:20&nbsp; &nbsp;&nbsp; &nbsp;PDA: Privacy-preserving Distributed Algorithms in the Era of Networked Real-World Data - Dr.Yong Chen (University of Pennsylvania)
+9:00-9:20&nbsp; &nbsp;PDA: Privacy-preserving Distributed Algorithms in the Era of Networked Real-World Data - Dr.Yong Chen (University of Pennsylvania)
 
 9:20-9:40&nbsp; &nbsp;TBD - Dr.Dana Crawford (Case Western Reserves University)
 
