@@ -10,7 +10,7 @@
 
 9:20-9:40&nbsp; &nbsp;TBD - Dr.Dana Crawford (Case Western Reserves University)
 
-9:40-10:00&nbsp; &nbsp;TBD - Dr.Rui Duan (Harvard University)
+9:40-10:00&nbsp; &nbsp;Federated Transfer Learning for Multi-site Risk Prediction - Dr.Rui Duan (Harvard University)
 
 10:00-10:20&nbsp; &nbsp;Interpretable Machine Learning for Biomedical Imaging Analysis - Dr.Lifang He (Lehigh University)
 
