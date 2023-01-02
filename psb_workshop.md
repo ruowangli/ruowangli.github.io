@@ -8,7 +8,7 @@
 
 9:00-9:20&nbsp; &nbsp;PDA: Privacy-preserving Distributed Algorithms in the Era of Networked Real-World Data - Dr.Yong Chen (University of Pennsylvania)
 
-9:20-9:40&nbsp; &nbsp;TBD - Dr.Dana Crawford (Case Western Reserves University)
+9:20-9:40&nbsp; &nbsp;Predicting the Unpredictable:  A Few Things to Consider - Dr.Dana Crawford (Case Western Reserves University)
 
 9:40-10:00&nbsp; &nbsp;Federated Transfer Learning for Multi-site Risk Prediction - Dr.Rui Duan (Harvard University)
 
