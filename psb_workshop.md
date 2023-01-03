@@ -21,7 +21,7 @@ The primary efforts of disease and epidemiological research can be divided into 
 
 10:50-11:10&nbsp; &nbsp;Beyond polygenic risk score for risk prediction - Dr.Ruowang Li (Cedars Sinai Medical Center)
   
-11:10-11:30&nbsp; &nbsp;TBD - Dr.Shannon Lynch (Fox Chase Cancer Center)
+11:10-11:30&nbsp; &nbsp;Overview of Challenges and Opportunities in Cancer Risk Prediction Models:  Considering Social Determinant of Health - Dr.Shannon Lynch (Fox Chase Cancer Center)
 
 11:30-11:50&nbsp; &nbsp;Post-processing for fairness in emergency department admission predictions - Dr.William La Cava (Boston Children’s hospital/Harvard Medical School)
 
