@@ -1,5 +1,5 @@
 
-# A workshop as part of the Pacific Symposium on Biocomputing 2023 #
+# A workshop as part of the Pacific Symposium on Biocomputing 2024 #
 
 
 ## Risk prediction: Methods, Challenges, and Opportunities ##
@@ -7,25 +7,7 @@ The primary efforts of disease and epidemiological research can be divided into 
 
 ### Agenda ###
 
-9:00-9:20&nbsp; &nbsp;PDA: Privacy-preserving Distributed Algorithms in the Era of Networked Real-World Data - Dr.Yong Chen (University of Pennsylvania)
-
-9:20-9:40&nbsp; &nbsp;Predicting the Unpredictable:  A Few Things to Consider - Dr.Dana Crawford (Case Western Reserves University)
-
-9:40-10:00&nbsp; &nbsp;Federated Transfer Learning for Multi-site Risk Prediction - Dr.Rui Duan (Harvard University)
-
-10:00-10:20&nbsp; &nbsp;Interpretable Machine Learning for Biomedical Imaging Analysis - Dr.Lifang He (Lehigh University)
-
-10:20-10:30&nbsp; &nbsp;Discussions 
-
-10:30-10:50&nbsp; &nbsp;Use of polygenic risk scores for understanding comorbidities and long term outcomes in women’s health - Dr.Shefali Verma (University of Pennsylvania)
-
-10:50-11:10&nbsp; &nbsp;Beyond polygenic risk score for risk prediction - Dr.Ruowang Li (Cedars Sinai Medical Center)
-  
-11:10-11:30&nbsp; &nbsp;Overview of Challenges and Opportunities in Cancer Risk Prediction Models:  Considering Social Determinant of Health - Dr.Shannon Lynch (Fox Chase Cancer Center)
-
-11:30-11:50&nbsp; &nbsp;Post-processing for fairness in emergency department admission predictions - Dr.William La Cava (Boston Children’s hospital/Harvard Medical School)
-
-11:50-12:00&nbsp; &nbsp;Discussions 
+TBD
   
 
 ### Workshop Organizers ###
