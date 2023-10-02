@@ -15,7 +15,7 @@ TBD - Dr. Graciela Gonzalez-Hernandez (Cedars Sinai Medical Center)
 
 TBD - Dr. Bogdan Pasaniuc (UCLA)
 
-TBD - DR. John Witte (Stanford University)
+TBD - Dr. John Witte (Stanford University)
 
 TBD - Dr. Marinka Zitnik (Harvard University)
 
