@@ -7,10 +7,26 @@ The primary efforts of disease and epidemiological research can be divided into 
 
 ### Agenda ###
 
-TBD
-  
+Ten principles for running federated learning algorithms in distributed research networks - Dr. Yong Chen (University of Pennsylvania)
+
+Building Trust in AI for Improving Health Outcomes - Dr. Randi Foraker (Washington University in St. Louis)
+
+TBD - Dr. Graciela Gonzalez-Hernandez (Cedars Sinai Medical Center)
+
+TBD - Dr. Bogdan Pasaniuc (UCLA)
+
+TBD - DR. John Witte (Stanford University)
+
+TBD - Dr. Marinka Zitnik (Harvard University)
 
 ### Workshop Organizers ###
+
+Ruowang Li, Ph.D. is an Assistant Professor in the Department of Computational
+Biomedicine at Cedars Sinai Medical Center. His lab focuses on developing
+computational methods to extract knowledge from large-scale population-level data, such
+as biobank-linked electronic health record data. His area of research includes multi-omics
+data integration, federated learning of patients’ data, genetic risk prediction, and genome-phenome
+associations.
 
 Rui Duan, Ph.D. is an Assistant Professor of Biostatistics at the Harvard T.H. Chan School
 of Public Health. Her research interests focus on developing statistical and machine
@@ -28,13 +44,6 @@ computational methods for biomedical research such as on understanding disease
 mechanisms, diagnosis, prognosis, disease biomarkers, and disease pathways. Her
 research interests broadly include machine learning computational medical imaging, AI
 for health, tensor computing, and multimodal analysis.
-
-Ruowang Li, Ph.D. is an Assistant Professor in the Department of Computational
-Biomedicine at Cedars Sinai Medical Center. His lab focuses on developing
-computational methods to extract knowledge from large-scale population-level data, such
-as biobank-linked electronic health record data. His area of research includes multi-omics
-data integration, federated learning of patients’ data, genetic risk prediction, and genomephenome
-associations.
 
 Jason H. Moore, Ph.D. is a biomedical informatician and founding Chair of the
 Department of Computational Biomedicine at Cedars-Sinai Medical Center in Los
