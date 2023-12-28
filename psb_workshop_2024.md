@@ -7,17 +7,21 @@ The primary efforts of disease and epidemiological research can be divided into 
 
 ### Agenda ###
 
-Ten principles for running federated learning algorithms in distributed research networks - Dr. Yong Chen (University of Pennsylvania)
+9:00 - 9:05 Workshop Introduction
 
-Building Trust in AI for Improving Health Outcomes - Dr. Randi Foraker (Washington University in St. Louis)
+9:05 - 9:35 Building Trust in AI for Improving Health Outcomes - Dr. Randi Foraker (Washington University in St. Louis)
 
-TBD - Dr. Graciela Gonzalez-Hernandez (Cedars Sinai Medical Center)
+9:35 - 10:05 Knowledge extraction from clinical notes: the promise of generative language models - Dr. Graciela Gonzalez-Hernandez (Cedars Sinai Medical Center)
 
-TBD - Dr. Bogdan Pasaniuc (UCLA)
+10:05 - 10:35 - Dr. Bogdan Pasaniuc (UCLA)
 
-TBD - Dr. John Witte (Stanford University)
+10:35 - 10:45 Break
 
-TBD - Dr. Marinka Zitnik (Harvard University)
+10:45 - 11:15 - Dr. John Witte (Stanford University)
+
+11:15 - 11:45 TBD - Dr. Marinka Zitnik (Harvard University)
+
+11:45 - 12:00 Discussion
 
 ### Workshop Organizers ###
 
