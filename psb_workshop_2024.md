@@ -7,7 +7,7 @@ The primary efforts of disease and epidemiological research can be divided into 
 
 ### Agenda ###
 
-9:00 - 9:05   ### Workshop Introduction ###
+9:00 - 9:05  <b> Workshop Introduction <b>
 
 9:05 - 9:35   ### Building Trust in AI for Improving Health Outcomes ### - Dr. Randi Foraker (Washington University in St. Louis)
 
