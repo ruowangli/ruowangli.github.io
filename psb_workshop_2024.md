@@ -7,21 +7,21 @@ The primary efforts of disease and epidemiological research can be divided into 
 
 ### Agenda ###
 
-9:00 - 9:05   Workshop Introduction
+9:00 - 9:05   ##Workshop Introduction##
 
-9:05 - 9:35   Building Trust in AI for Improving Health Outcomes - Dr. Randi Foraker (Washington University in St. Louis)
+9:05 - 9:35   ##Building Trust in AI for Improving Health Outcomes - Dr. Randi Foraker (Washington University in St. Louis)##
 
-9:35 - 10:05   Knowledge extraction from clinical notes: the promise of generative language models - Dr. Graciela Gonzalez-Hernandez (Cedars Sinai Medical Center)
+9:35 - 10:05   ##Knowledge extraction from clinical notes: the promise of generative language models - Dr. Graciela Gonzalez-Hernandez (Cedars Sinai Medical Center)##
 
-10:05 - 10:35   TBD - Dr. Bogdan Pasaniuc (UCLA)
+10:05 - 10:35   ##TBD - Dr. Bogdan Pasaniuc (UCLA)##
 
-10:35 - 10:45   Break
+10:35 - 10:45   ##Break##
 
-10:45 - 11:15   TBD - Dr. John Witte (Stanford University)
+10:45 - 11:15   ##TBD - Dr. John Witte (Stanford University)##
 
-11:15 - 11:45   TBD - Dr. Marinka Zitnik (Harvard University)
+11:15 - 11:45   ##TBD - Dr. Marinka Zitnik (Harvard University)##
 
-11:45 - 12:00   Discussion
+11:45 - 12:00   ##Discussion##
 
 ### Workshop Organizers ###
 
