@@ -19,7 +19,7 @@ The primary efforts of disease and epidemiological research can be divided into 
 
 10:45 - 11:15       <b> TBD </b> - Dr. John Witte (Stanford University)
 
-11:15 - 11:45       <b> TBD </b> - Dr. Marinka Zitnik (Harvard University)
+11:15 - 11:45       <b> Shortening odysseys: AI for rare disease diagnosis and therapeutic innovation </b> - Dr. Marinka Zitnik (Harvard University)
 
 11:45 - 12:00       <b> Discussion </b> 
 
