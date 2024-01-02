@@ -11,13 +11,13 @@ The primary efforts of disease and epidemiological research can be divided into 
 
 9:05 - 9:35       <b> Building Trust in AI for Improving Health Outcomes </b> - Dr. Randi Foraker (Washington University in St. Louis)
 
-9:35 - 10:05       <b> Knowledge extraction from clinical notes: the promise of generative language models </b> - Dr. Graciela Gonzalez-Hernandez (Cedars Sinai Medical Center)
+9:35 - 10:05       <b> Knowledge extraction from clinical notes for AI-enhanced risk prediction: the promise of generative NLP approaches and large language models </b> - Dr. Graciela Gonzalez-Hernandez (Cedars Sinai Medical Center)
 
 10:05 - 10:35       <b> TBD </b> - Dr. Bogdan Pasaniuc (UCLA)
 
 10:35 - 10:45       <b> Break </b>
 
-10:45 - 11:15       <b> TBD </b> - Dr. John Witte (Stanford University)
+10:45 - 11:15       <b> Improving risk prediction by leveraging biomarker genetics </b> - Dr. John Witte (Stanford University)
 
 11:15 - 11:45       <b> Shortening odysseys: AI for rare disease diagnosis and therapeutic innovation </b> - Dr. Marinka Zitnik (Harvard University)
 
