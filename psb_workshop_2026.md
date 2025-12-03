@@ -27,7 +27,7 @@ All of these areas promise to reshape the future of health services.
 <table>
   <tr>
     <td width="120">
-      <img src="assets/speakers/papalexakis.jpg" alt="Evangelos Papalexakis" width="110">
+      <img src="assets/speakers/papalexakis.avif" alt="Evangelos Papalexakis" width="110">
     </td>
     <td>
       <strong>9:00 – 9:05</strong><br>
@@ -36,7 +36,7 @@ All of these areas promise to reshape the future of health services.
   </tr>
   <tr>
     <td>
-      <img src="assets/speakers/papalexakis.jpg" alt="Evangelos Papalexakis" width="110">
+      <img src="assets/speakers/papalexakis.avif" alt="Evangelos Papalexakis" width="110">
     </td>
     <td>
       <strong>9:05 – 9:30 — Evangelos Papalexakis</strong><br>
@@ -45,7 +45,7 @@ All of these areas promise to reshape the future of health services.
   </tr>
   <tr>
     <td>
-      <img src="assets/speakers/duan.jpg" alt="Rui Duan" width="110">
+      <img src="assets/speakers/duan.jpeg" alt="Rui Duan" width="110">
     </td>
     <td>
       <strong>9:30 – 9:55 — Rui Duan</strong><br>
@@ -54,7 +54,7 @@ All of these areas promise to reshape the future of health services.
   </tr>
   <tr>
     <td>
-      <img src="assets/speakers/mooney.jpg" alt="Sean Mooney" width="110">
+      <img src="assets/speakers/mooney.png" alt="Sean Mooney" width="110">
     </td>
     <td>
       <strong>9:55 – 10:20 — Sean Mooney</strong><br>
@@ -81,7 +81,7 @@ All of these areas promise to reshape the future of health services.
   </tr>
   <tr>
     <td>
-      <img src="assets/speakers/ritchie.jpg" alt="Marylyn Ritchie" width="110">
+      <img src="assets/speakers/ritchie.jpeg" alt="Marylyn Ritchie" width="110">
     </td>
     <td>
       <strong>10:55 – 11:20 — Marylyn Ritchie</strong><br>
