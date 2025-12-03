@@ -27,7 +27,7 @@ All of these areas promise to reshape the future of health services.
 <table>
   <tr>
     <td width="120">
-     
+     <!-- no imaging for introduction -->
     </td>
     <td>
       <strong>9:00 – 9:05 - Ruowang Li</strong><br>
