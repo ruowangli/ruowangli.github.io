@@ -113,9 +113,9 @@ All of these areas promise to reshape the future of health services.
 
 ## Organizers
 
-<img src="assets/speakers/rm 头像.jpg" alt="Ruowang Li" width="140">
 
 ### Ruowang Li, Ph.D.
+<img src="assets/speakers/rm 头像.jpg" alt="Ruowang Li" width="140">
 
 Ruowang Li is an Assistant Professor in the Department of Computational Biomedicine at Cedars-Sinai Medical Center. His lab focuses on developing computational methods to extract knowledge from large-scale population-level data, such as biobank-linked electronic health record data. His research interests include multi-omics data integration, federated learning for patient data, genetic risk prediction, and genome–phenome associations.
 
