@@ -113,6 +113,8 @@ All of these areas promise to reshape the future of health services.
 
 ## Organizers
 
+<img src="assets/speakers/rm 头像.jpg" alt="Ruowang Li" width="140">
+
 ### Ruowang Li, Ph.D.
 
 Ruowang Li is an Assistant Professor in the Department of Computational Biomedicine at Cedars-Sinai Medical Center. His lab focuses on developing computational methods to extract knowledge from large-scale population-level data, such as biobank-linked electronic health record data. His research interests include multi-omics data integration, federated learning for patient data, genetic risk prediction, and genome–phenome associations.
@@ -120,17 +122,20 @@ Ruowang Li is an Assistant Professor in the Department of Computational Biomedic
 ---
 
 ### Tiffani Bright, Ph.D.
+<img src="assets/speakers/bright.jpg" alt="Tiffani Bright" width="140">
 
 Tiffani Bright is an Assistant Professor of Computational Biomedicine at Cedars-Sinai and Co-Director of the Center for AI Research and Education. Her lab works to reduce bias in machine learning, ensuring clinical AI models treat all patients fairly. They enhance AutoML tools such as TPOT to automate bias detection and mitigation, making fair model development more scalable. Instead of traditional proxies like race, they design predictive models based on fairer metrics to promote equitable healthcare outcomes.
 
 ---
 
 ### Brian D. Davison, Ph.D.
+<img src="assets/speakers/davison.jpg" alt="Brian D. Davison" width="140">
 
 Brian D. Davison is a Professor and Chair of the Department of Computer Science and Engineering at Lehigh University. He is a co-founder of Lehigh's Center for Catastrophe Modeling, a founding co-director of the interdisciplinary Master's Program in Data Science, and the founding director of Lehigh's undergraduate minor in data science. He serves as senior associate editor of the Association for Computing Machinery (ACM) journal *Transactions on Intelligent Systems and Technology* and associate editor for *Frontiers in Big Data*, Data Mining and Management Section. His research focuses on search, mining, recommendation, and classification problems in text and on the Web, as well as catastrophe modeling for natural disasters and health-related threats. Davison is an NSF Faculty Early CAREER award winner, and his research has been supported by NSF, NIH, DARPA, Microsoft, Amazon, and Sun Microsystems.
 
 ---
 
 ### Lifang He, Ph.D.
+<img src="assets/speakers/he.jpg" alt="Lifang He" width="140">
 
 Lifang He is an Associate Professor in the Department of Computer Science and Engineering at Lehigh University and the Chair of the IEEE Computer Society Chapter at the Lehigh Valley Section. She received her Ph.D. in Computer Science and completed postdoctoral training at the University of Pennsylvania and Cornell’s medical schools. Dr. He has extensive expertise in developing advanced computational methods for biomedical research, including understanding disease mechanisms, diagnosis, prognosis, disease biomarkers, and disease pathways. Her research spans machine learning, computational medical imaging, AI for health, tensor computing, and multimodal analysis. She has published over 200 papers in peer-reviewed journals and conferences, and her work has been supported by NIH, NSF, ONR, and DOE.
