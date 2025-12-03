@@ -24,17 +24,90 @@ All of these areas promise to reshape the future of health services.
 
 ## Schedule
 
-| Time          | Speaker                | Title                                                           |
-|---------------|------------------------|-----------------------------------------------------------------|
-| 9:00 – 9:05   | —                      | Introduction                                                   |
-| 9:05 – 9:30   | **Evangelos Papalexakis** | AI-driven latent structure discovery for health insights        |
-| 9:30 – 9:55   | **Rui Duan**           | Unsupervised Aggregation of Multiple Learning Algorithms       |
-| 9:55 – 10:20  | **Sean Mooney**        | *TBD*                                                          |
-| 10:20 – 10:30 | —                      | Break                                                          |
-| 10:30 – 10:55 | **Nicholas Tatonetti** | AI-driven discovery using real-world clinical data             |
-| 10:55 – 11:20 | **Marylyn Ritchie**    | *TBD*                                                          |
-| 11:20 – 11:45 | **Jason Moore**        | Agentic AI approaches for biomedical research                  |
-| 11:45 – 12:00 | —                      | Discussions and Q&A                                            |
+<table>
+  <tr>
+    <td width="120">
+      <img src="assets/speakers/papalexakis.jpg" alt="Evangelos Papalexakis" width="110">
+    </td>
+    <td>
+      <strong>9:00 – 9:05</strong><br>
+      Introduction
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/speakers/papalexakis.jpg" alt="Evangelos Papalexakis" width="110">
+    </td>
+    <td>
+      <strong>9:05 – 9:30 — Evangelos Papalexakis</strong><br>
+      <em>AI-driven latent structure discovery for health insights</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/speakers/duan.jpg" alt="Rui Duan" width="110">
+    </td>
+    <td>
+      <strong>9:30 – 9:55 — Rui Duan</strong><br>
+      <em>Unsupervised Aggregation of Multiple Learning Algorithms</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/speakers/mooney.jpg" alt="Sean Mooney" width="110">
+    </td>
+    <td>
+      <strong>9:55 – 10:20 — Sean Mooney</strong><br>
+      <em>TBD</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- empty cell for break -->
+    </td>
+    <td>
+      <strong>10:20 – 10:30</strong><br>
+      Break
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/speakers/tatonetti.jpg" alt="Nicholas Tatonetti" width="110">
+    </td>
+    <td>
+      <strong>10:30 – 10:55 — Nicholas Tatonetti</strong><br>
+      <em>AI-driven discovery using real-world clinical data</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/speakers/ritchie.jpg" alt="Marylyn Ritchie" width="110">
+    </td>
+    <td>
+      <strong>10:55 – 11:20 — Marylyn Ritchie</strong><br>
+      <em>TBD</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/speakers/moore.jpg" alt="Jason Moore" width="110">
+    </td>
+    <td>
+      <strong>11:20 – 11:45 — Jason Moore</strong><br>
+      <em>Agentic AI approaches for biomedical research</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- empty cell for discussion -->
+    </td>
+    <td>
+      <strong>11:45 – 12:00</strong><br>
+      Discussions and Q&amp;A
+    </td>
+  </tr>
+</table>
+
 
 ---
 
