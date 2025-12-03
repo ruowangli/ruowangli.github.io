@@ -27,7 +27,7 @@ All of these areas promise to reshape the future of health services.
 <table>
   <tr>
     <td width="120">
-      <img src="assets/speakers/papalexakis.avif" alt="Evangelos Papalexakis" width="110">
+      <img src="assets/speakers/rm 头像.jpg" alt="Ruowang Li" width="110">
     </td>
     <td>
       <strong>9:00 – 9:05</strong><br>
