@@ -30,7 +30,7 @@ All of these areas promise to reshape the future of health services.
       <img src="assets/speakers/rm 头像.jpg" alt="Ruowang Li" width="110">
     </td>
     <td>
-      <strong>9:00 – 9:05</strong><br>
+      <strong>9:00 – 9:05 - Ruowang Li</strong><br>
       Introduction
     </td>
   </tr>
