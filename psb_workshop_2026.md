@@ -40,6 +40,7 @@ All of these areas promise to reshape the future of health services.
     </td>
     <td>
       <strong>9:05 – 9:30 — Evangelos Papalexakis</strong><br>
+      University of California, Riverside<br>
       <em>AI-driven latent structure discovery for health insights</em>
     </td>
   </tr>
