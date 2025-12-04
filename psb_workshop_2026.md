@@ -49,7 +49,7 @@ All of these areas promise to reshape the future of health services.
     </td>
     <td>
       <strong>9:30 – 9:55 — Rui Duan</strong><br>
-      <em>Unsupervised Aggregation of Multiple Learning Algorithms</em>
+      <em>Unsupervised aggregation of multiple learning algorithms</em>
     </td>
   </tr>
   <tr>
