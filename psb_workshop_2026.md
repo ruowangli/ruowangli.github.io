@@ -30,7 +30,7 @@ All of these areas promise to reshape the future of health services.
      <!-- no imaging for introduction -->
     </td>
     <td>
-      <strong>9:00 – 9:05 - Ruowang Li</strong><br>
+      <strong>9:00 – 9:05 - Ruowang Li</strong><br>Cedars-Sinai Medical Center<br>
       Introduction
     </td>
   </tr>
