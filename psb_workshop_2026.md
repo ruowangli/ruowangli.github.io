@@ -85,7 +85,7 @@ All of these areas promise to reshape the future of health services.
       <img src="assets/speakers/ritchie.jpeg" alt="Marylyn Ritchie" width="110">
     </td>
     <td>
-      <strong>10:55 – 11:20 — Marylyn Ritchie</strong><br>
+      <strong>10:55 – 11:20 — Marylyn Ritchie</strong><br>Medical University of South Carolina<br>
       <em>TBD</em>
     </td>
   </tr>
@@ -94,7 +94,7 @@ All of these areas promise to reshape the future of health services.
       <img src="assets/speakers/moore.jpg" alt="Jason Moore" width="110">
     </td>
     <td>
-      <strong>11:20 – 11:45 — Jason Moore</strong><br>Cedars-Sinai Medical Center<br>Medical University of South Carolina<br>
+      <strong>11:20 – 11:45 — Jason Moore</strong><br>Cedars-Sinai Medical Center<br>
       <em>Agentic AI approaches for biomedical research</em>
     </td>
   </tr>
