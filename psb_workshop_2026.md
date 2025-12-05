@@ -2,7 +2,6 @@
 
 ## AI for Health: Leveraging Artificial Intelligence to Revolutionize Healthcare
 
----
 
 ## Introduction
 
