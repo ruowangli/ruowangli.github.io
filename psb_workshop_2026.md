@@ -7,15 +7,7 @@ Artificial Intelligence (AI) is poised to transform healthcare, offering groundb
 
 Successfully integrating AI into healthcare, however, requires careful consideration of regulatory frameworks, governance structures, data equity, and privacy protections. As interest in applying AI to healthcare grows, close collaboration between academia, clinical practitioners, and the healthcare industry becomes increasingly crucial to ensure that AI technologies are inclusive, equitable, and ethical.
 
-This workshop will bring together AI researchers, clinicians, and industry experts to foster dialogues and insights that contribute to responsible AI development. Focus areas will include:
-
-- AI for medical data analysis  
-- Clinical decision support systems  
-- Drug discovery  
-- Personalized medicine  
-- Digital health platforms  
-
-All of these areas promise to reshape the future of health services.
+This workshop will bring together AI researchers, clinicians, and industry experts to foster dialogues and insights that contribute to responsible AI development.
 
 ---
 
