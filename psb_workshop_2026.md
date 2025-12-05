@@ -49,7 +49,7 @@ All of these areas promise to reshape the future of health services.
       <img src="assets/speakers/duan.jpeg" alt="Rui Duan" width="110">
     </td>
     <td>
-      <strong>9:30 – 9:55 — Rui Duan</strong><br>
+      <strong>9:30 – 9:55 — Rui Duan</strong><br>Harvard University<br>
       <em>Unsupervised aggregation of multiple learning algorithms</em>
     </td>
   </tr>
@@ -58,7 +58,7 @@ All of these areas promise to reshape the future of health services.
       <img src="assets/speakers/mooney.png" alt="Sean Mooney" width="110">
     </td>
     <td>
-      <strong>9:55 – 10:20 — Sean Mooney</strong><br>
+      <strong>9:55 – 10:20 — Sean Mooney</strong><br>National Institutes of Health<br>
       <em>TBD</em>
     </td>
   </tr>
@@ -76,7 +76,7 @@ All of these areas promise to reshape the future of health services.
       <img src="assets/speakers/tatonetti.jpg" alt="Nicholas Tatonetti" width="110">
     </td>
     <td>
-      <strong>10:30 – 10:55 — Nicholas Tatonetti</strong><br>
+      <strong>10:30 – 10:55 — Nicholas Tatonetti</strong><br>Cedars-Sinai Medical Center<br>
       <em>AI-driven discovery using real-world clinical data</em>
     </td>
   </tr>
@@ -94,7 +94,7 @@ All of these areas promise to reshape the future of health services.
       <img src="assets/speakers/moore.jpg" alt="Jason Moore" width="110">
     </td>
     <td>
-      <strong>11:20 – 11:45 — Jason Moore</strong><br>
+      <strong>11:20 – 11:45 — Jason Moore</strong><br>Cedars-Sinai Medical Center<br>Medical University of South Carolina<br>
       <em>Agentic AI approaches for biomedical research</em>
     </td>
   </tr>
