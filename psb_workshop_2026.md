@@ -1,6 +1,4 @@
-# A Workshop as Part of the Pacific Symposium on Biocomputing 2026  
-
-## AI for Health: Leveraging Artificial Intelligence to Revolutionize Healthcare
+# AI for Health: Leveraging Artificial Intelligence to Revolutionize Healthcare (PSB 2026)
 
 
 ## Introduction
