@@ -75,7 +75,7 @@ This workshop will bring together AI researchers, clinicians, and industry exper
     </td>
     <td>
       <strong>10:55 – 11:20 — Marylyn Ritchie</strong><br>Medical University of South Carolina<br>
-      <em>TBD</em>
+      <em>AI Scrubs In: The New Assistant in Healthcare</em>
     </td>
   </tr>
   <tr>
